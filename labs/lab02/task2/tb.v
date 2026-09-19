@@ -68,6 +68,7 @@ module tb;
 
   end
 
+
   initial
     $monitor($time, " sel=%b | dout=%d", t_sel, t_dout);
 
