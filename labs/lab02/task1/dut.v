@@ -8,6 +8,7 @@ module DUT(
   input  I1,
   input  S,
   output Y
+  
 );
 
   // ---- Option 1: dataflow version ----
